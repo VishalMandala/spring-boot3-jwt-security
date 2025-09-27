@@ -14,4 +14,4 @@ spring:
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
   application:
-    name=security
+    name: security
